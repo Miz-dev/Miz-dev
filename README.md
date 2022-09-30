@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miz_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miz_dev" height="30" width="40" /></a>
-<a href="/https://zenn.dev/miz_dev/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/miz_dev/feed" height="30" width="40" /></a>
+<a href="https://zenn.dev/miz_dev/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/miz_dev/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
