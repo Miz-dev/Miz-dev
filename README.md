@@ -3,13 +3,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [誤ってpushしたnode_modulesをGitHubから削除する](https://zenn.dev/miz_dev/articles/nodemodule-ignore)
 - [【TypeScript】Genericsの基礎](https://zenn.dev/miz_dev/articles/1519a995ae306a)
 - [Reactの基本的なところを備忘として残しておく](https://zenn.dev/miz_dev/articles/4e6baa5b747c5d)
 - [ポモドーロ・テクニックとは？【集中して作業したい方必見！】](https://zenn.dev/miz_dev/articles/f0b926126c138f)
 - [Sassって何？使うことのメリットを簡単に解説！【効率爆上がり！】](https://zenn.dev/miz_dev/articles/c26ab943f35b8f)
 - [TypeScriptの基本的なところを備忘として残しておく](https://zenn.dev/miz_dev/articles/8f406c76abe442)
 - [【Mac】意外と便利！Controlキーのショートカットキー！【作業効率爆上がり！】](https://zenn.dev/miz_dev/articles/a37c62460f21ea)
-- [【コーディングが爆速に！】ユーザースニペットとは？【Visual Studio Code】](https://zenn.dev/miz_dev/articles/157a7aaad0bdcf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
